@@ -1,0 +1,79 @@
+[
+
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co.com/GtZsqYy/1.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author_name": "Jane Doe",
+        "author_img": "https://i.ibb.co.com/Ln0WRxm/boy1.png",
+        "post_date": "October 20, 2020",
+        "duration_time": 10,
+        "hashtags":[
+             "beginners",
+             "programing",
+             "ES6"
+        ]
+    },
+
+    {
+        "id": 2,
+        "cover_img": "https://i.ibb.co.com/wrpx8SG/2.png",
+        "title": "Mysteries of the Ocean",
+        "author_name": "John Smith",
+        "author_img": "https://i.ibb.co.com/944mNq9/boy2.jpg",
+        "post_date": "October 18, 2021",
+        "duration_time": 12,
+        "hashtags":[
+            "beginners",
+            "programing",
+            "C","C++"
+       ]
+    },
+
+    {
+        "id": 3,
+        "cover_img": "https://i.ibb.co.com/1z6Qs80/3.png",
+        "title": "Exploring the Stars",
+        "author_name": "Emma Green",
+        "author_img": "https://i.ibb.co.com/NxsW5yG/girl1.jpg",
+        "post_date": "October 15, 2022",
+        "duration_time":9,
+        "hashtags":[
+            "beginners",
+            "programing",
+            "React",
+            "Redux"
+       ]
+    },
+
+    {
+        "id": 4,
+        "cover_img": "https://i.ibb.co.com/QmpKKcg/4.jpg",
+        "title": "Tales of the Forest",
+        "author_name": "Lucas Brown",
+        "author_img": "https://i.ibb.co.com/sykDyVY/girl2.jpg",
+        "post_date": "October 10, 2023",
+        "duration_time": 7,
+        "hashtags":[
+            "beginners",
+            "programing",
+            "Free"
+       ]
+    },
+
+    {
+        "id": 5,
+        "cover_img": "https://i.ibb.co.com/c8QvMbz/pet.webp",
+        "title": "Urban Legends Unveiled",
+        "author_name": "Sophia White",
+        "author_img": "https://i.ibb.co.com/4pFq1CV/user-profile-icon-free-vector.jpg",
+        "post_date": "October 5, 2024",
+        "duration_time": 8,
+        "hashtags":[
+            "petLover",
+            "pet",
+            "animal"
+       ]
+       
+    }
+]
